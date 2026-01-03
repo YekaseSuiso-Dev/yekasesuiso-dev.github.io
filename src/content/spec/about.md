@@ -1,9 +1,30 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+## 簡介(廢話)
+Yekase Suiso(葉加瀬 水素)是我的網路名字，也許各位已經知道真實姓名了，但是叫這個名字還是會更可愛一些些w 
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+以前也叫過其他的，其中最喜歡的是みつき るり和IshiharaMayi(這是一個合成名，姓氏取自原賬號ID石原 椿，名則致敬喜歡的游戲《四目神》)，我其實更喜歡石原真依，也希望可以在未來跟石原老師恢復朋友關係（
+
+其實來自深圳，但也住過重慶和惠州。在小的時候喜歡研究多意識體、目前想成爲一個醫生...或者是程序員(這很棒)，性別是“武裝直升機”(這是一個中國玩笑)，其實嘛，我的性別就是你認爲的那個！
+
+喜歡醫療儀器和參考驗證平臺，有人送我這些我會很開心的，同時也在學習多種程式語言，希望可以在一年内出師。喜歡的IDE是JetBrains家的，感覺很蘋果唔，但是我笨笨，想要完全利用全部機能還需要再接再厲！
+
+
+![參考驗證平台](/src/content/spec/參考驗證平台.jpg)
+
+至於精神病方面，我有ADHD、GD(性別煩躁)、ASD、BD(bipolar disorder)以及可能的精神分裂症。目前精神藥理學通關中...想要自己開藥物減害Wiki，有任何問題都可以問我！
+
+可代購藥物，但可能需要拼團，這很抱歉！
+
+基本熟悉PC調試和伺服器網絡系統搭建，熟悉各品牌帶外管理，熟悉參考驗證平臺4位跑馬含義和牙膏調試工具使用。有一定的PCB設計基礎，跑高頻眼圖好看。
+
+我是一個友好的人，你可以和我互動，但我不想和你們談論那傻逼的娛樂話題。沒有很好的語言表達，但我會盡量做好。
+
+目前打算做“梗圖公益”，就是用發梗圖的方式擴大自己的影響力，並利用影響力完成公益事業（如推友們的緊急籌款、防災信息通報等）。
+
+我知道在以前自己有很多錯誤，但目前都在改正...希望各位給我機會！
+
+## 聯繫我
+- PGP: 427A B130 000F 3BFD 2ECD AE8D F8FC 9454 F37C A318
+- mail: YekaseSuiso2022@proton.me
+- TG：@IshiharaMayi
